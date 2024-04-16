@@ -1,0 +1,103 @@
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Views\AddUser.g.cs
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Views\Main.g.cs
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book_MarkupCompile.cache
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book_MarkupCompile.lref
+C:\Users\Elyahu\source\repos\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.exe
+C:\Users\Elyahu\source\repos\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.deps.json
+C:\Users\Elyahu\source\repos\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.runtimeconfig.json
+C:\Users\Elyahu\source\repos\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.dll
+C:\Users\Elyahu\source\repos\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.pdb
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\App.baml
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Views\AddUser.baml
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Views\Main.baml
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.g.resources
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.AssemblyInfoInputs.cache
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.AssemblyInfo.cs
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.csproj.CoreCompileInputs.cache
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.dll
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\refint\Record Book.dll
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.pdb
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.genruntimeconfig.cache
+C:\Users\Elyahu\source\repos\Record Book\Record Book\obj\Debug\net6.0-windows\ref\Record Book.dll
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\bin\Debug\net6.0-windows\Record Book.exe
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\bin\Debug\net6.0-windows\Record Book.deps.json
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\bin\Debug\net6.0-windows\Record Book.runtimeconfig.json
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\bin\Debug\net6.0-windows\Record Book.dll
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\bin\Debug\net6.0-windows\Record Book.pdb
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Views\AddUser.g.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Views\Main.g.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book_MarkupCompile.cache
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book_MarkupCompile.lref
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\App.baml
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Views\AddUser.baml
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Views\Main.baml
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book.g.resources
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book.AssemblyInfoInputs.cache
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book.AssemblyInfo.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book.csproj.CoreCompileInputs.cache
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book.sourcelink.json
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book.dll
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\refint\Record Book.dll
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book.pdb
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\Record Book.genruntimeconfig.cache
+C:\Users\Elyahu\Desktop\ely github\Record-Book\Record Book\obj\Debug\net6.0-windows\ref\Record Book.dll
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\bin\Debug\net6.0-windows\Record Book.exe
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\bin\Debug\net6.0-windows\Record Book.deps.json
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\bin\Debug\net6.0-windows\Record Book.runtimeconfig.json
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\bin\Debug\net6.0-windows\Record Book.dll
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\bin\Debug\net6.0-windows\Record Book.pdb
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Views\AddUser.g.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Views\Main.g.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book_MarkupCompile.cache
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book_MarkupCompile.lref
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\App.baml
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Views\AddUser.baml
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Views\Main.baml
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book.g.resources
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book.AssemblyInfoInputs.cache
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book.AssemblyInfo.cs
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book.csproj.CoreCompileInputs.cache
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book.sourcelink.json
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book.dll
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\refint\Record Book.dll
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book.pdb
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\Record Book.genruntimeconfig.cache
+C:\Users\Elyahu\Desktop\ely github\Record-Book-WPF-MVVM-App\Record Book\obj\Debug\net6.0-windows\ref\Record Book.dll
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.exe
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.deps.json
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.runtimeconfig.json
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.dll
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\bin\Debug\net6.0-windows\Record Book.pdb
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Views\AddUser.g.cs
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Views\Main.g.cs
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book_MarkupCompile.cache
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book_MarkupCompile.lref
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\App.baml
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Views\AddUser.baml
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Views\Main.baml
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.g.resources
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.AssemblyInfoInputs.cache
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.AssemblyInfo.cs
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.dll
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\refint\Record Book.dll
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.pdb
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\Record Book.genruntimeconfig.cache
+C:\Users\Eliahu Anavi\Downloads\Record Book\Record Book\obj\Debug\net6.0-windows\ref\Record Book.dll
